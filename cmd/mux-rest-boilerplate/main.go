@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/pa3ng/mux-boilerplate/internal/app"
+	"github.com/pa3ng/mux-rest-boilerplate/internal/app"
 )
 
 func main() {
